@@ -1,6 +1,4 @@
-# BravePay Admin Dashboard
-
-🔗 **Live:** https://admin.bravepayfinancialservices.com/
+# Admin Dashboard
 
 ### 🚀 Overview
 A secure and scalable admin system built with **Next.js**, powering operational workflows for a fintech platform.
